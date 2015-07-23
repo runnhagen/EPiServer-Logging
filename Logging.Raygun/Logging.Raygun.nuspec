@@ -9,7 +9,7 @@
     <licenseUrl>https://github.com/runnhagen/EPiServer-Logging/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/runnhagen/EPiServer-Logging/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>Log to Raygun using the EPiServer logging abstraction</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags></tags>
