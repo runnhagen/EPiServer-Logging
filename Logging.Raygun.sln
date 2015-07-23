@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Raygun", "Logging.Raygun.csproj", "{B917BF40-51D7-456A-9CE5-A1C6442FE6C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Raygun", "Logging.Raygun\Logging.Raygun.csproj", "{B917BF40-51D7-456A-9CE5-A1C6442FE6C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
